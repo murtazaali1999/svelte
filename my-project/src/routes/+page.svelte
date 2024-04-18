@@ -17,7 +17,6 @@
 				<img src={welcome_fallback} alt="Welcome" />
 			</picture>
 		</span>
-
 		to your new<br />SvelteKit app
 	</h1>
 
